@@ -8,9 +8,6 @@ Une application web Java (Jakarta EE) permettant de gérer un inventaire de prod
 https://github.com/user-attachments/assets/90fa76f0-1dc8-49b0-8768-b9ef0c22822f
 
 
-## Lien du tp 
-
-http://localhost:8081/inventory-management/
 
 ## Technologies utilisées
 
